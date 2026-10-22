@@ -1,6 +1,6 @@
-# ROOT Detector Geometries Archive
+# FCC Study Detector Geometries in ROOT
 
-Archive of FCC Study detector geometries: in ROOT, generated from XML files: and glTF, generated from Root files. As well as their configuration files.
+Archive of FCC Study detector geometries in ROOT, generated from XML files.
 
 ## 1. Converting XML to Root
 
